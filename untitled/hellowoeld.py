@@ -1,0 +1,5 @@
+print ("how old are you")
+age=input("请输入：")
+print("how tail are you")
+tall=input("请输入：")
+print("you are %r old and %r tall" %(age,tall))
